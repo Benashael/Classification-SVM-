@@ -1,5 +1,5 @@
 # Classification-SVM-
-Classification using SVM algorithm to predict whether the given sample is benign or malignant 
+Classification using SVM algorithm to predict whether the given sample is benign or malignant. 
 ## Package Used
 1. Matplotlib
 2. Pandas
